@@ -1,0 +1,25 @@
+Main Tools
+
+The following foundation tools and commands let you create and build applications:
+
+javac: You can use the javac tool and its options to read Java class and interface definitions and compile them into bytecode and class files.
+
+javap: You use the javap command to disassemble one or more class files.
+
+javah: You use the javah tool to generate C header and source files from a Java class.
+
+javadoc: You use the javadoc tool and its options to generate HTML pages of API documentation from Java source files.
+
+java: You can use the java command to launch a Java application.
+
+appletviewer: You use the appletviewer command to launch the AppletViewer and run applets outside of a web browser.
+
+jar: You can use the jar command to create an archive for classes and resources, and to manipulate or restore individual classes or resources from an archive.
+
+jlink: You can use the jlink tool to assemble and optimize a set of modules and their dependencies into a custom runtime image.
+
+jmod: You use the jmod tool to create JMOD files and list the content of existing JMOD files.
+
+jdeps: You use the jdeps command to launch the Java class dependency analyzer.
+
+jdeprscan: You use the jdeprscan tool as a static analysis tool that scans a jar file (or some other aggregation of class files) for uses of deprecated API elements.
